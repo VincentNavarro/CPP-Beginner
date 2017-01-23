@@ -2,8 +2,7 @@
 Vincent Navarro
 Input / Output
 
-User puts input
-Displays text with new stored data
+User inputs name. Displays text with name as well as addtional text
 */
 
 #include <iostream>
