@@ -2,7 +2,7 @@
 Vincent Navarro
 Input / Output
 
-User inputs name. Displays text with name as well as addtional text
+User inputs their name. Displays text with name as well as addtional text
 */
 
 #include <iostream>
