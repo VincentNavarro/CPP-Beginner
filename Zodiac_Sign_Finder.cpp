@@ -23,7 +23,7 @@ cout << "What day were you born on?\n(Enter a number 1-31)\n\n";
 cin >> day;
 
 //calculations
-md = month * 100 /2;
+md = (month * 100) + day;
 
 //comparisons to find sign
 
